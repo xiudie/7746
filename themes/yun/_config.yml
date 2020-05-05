@@ -1,6 +1,6 @@
 # ---------------
 # Todo: mode: light | dark | auto
-mode: auto # now only light
+mode: light # now only light
 
 # Theme color for customize
 # Notice: color value must in double quotes: "#000000"
