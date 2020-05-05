@@ -1,6 +1,6 @@
 # ---------------
 # Todo: mode: light | dark | auto
-mode: light # now only light
+mode: auto # now only light
 
 # Theme color for customize
 # Notice: color value must in double quotes: "#000000"
@@ -418,7 +418,7 @@ footer:
 
 # Post meta display settings
 post_meta:
-  item_text: false
+  item_text: true
   created_at: true
   updated_at: true
   categories: true
@@ -427,7 +427,7 @@ post_meta:
 # notice pin board
 notice:
   enable: true
-  content: Thanks for watching my blog:)
+  content: 大爷来玩儿啦~~
 
 # third party
 # ----------------
